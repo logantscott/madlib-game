@@ -10,7 +10,7 @@ background-color: #EEE;
 }
 
 header {
-    font-size: 48px;
+    font-size: 8px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -41,4 +41,8 @@ label {
 
 input {
     margin-right: 10px;
+}
+
+#adlib {
+    font-size: 12px;
 }
